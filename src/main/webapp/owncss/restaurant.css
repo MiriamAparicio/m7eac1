@@ -1,0 +1,40 @@
+/* 
+    Created on : 03-sep-2016, 17:31:08
+    Author     : MiguelAngel
+    Modified By: Àlex Salinas - 12-02-2017
+*/
+.divRestaurant{
+    border-color: black;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-bottom-style: solid;
+    border-right-style: solid;
+    border-bottom-right-radius: 15px;
+    -moz-border-right-radius: 15px;
+    margin-top: 30px;
+}
+.ownImgTable{
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+.textcenter{
+    text-align: center;
+}
+.icon{
+
+width: 20px;
+}
+
+tr.even{
+    background-color: aquamarine;
+}
+
+tr.odd{
+    background-color: coral;
+}
